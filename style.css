@@ -1,0 +1,9 @@
+h1{
+    border: 2px solid red;
+    margin: 20px;
+    padding: 20px;
+}
+
+.feito{
+    text-decoration: line-through;
+}
